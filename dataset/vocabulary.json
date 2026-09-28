@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rabbit",
+    "text": "兔",
+    "category": "concrete animal",
+    "meaning": "rabbit",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "ball",
+    "text": "球",
+    "category": "concrete object",
+    "meaning": "ball",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "apple",
+    "text": "蘋果",
+    "category": "food",
+    "meaning": "apple",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "run",
+    "text": "跑",
+    "category": "action",
+    "meaning": "run",
+    "visualizability": "high",
+    "visual_strategy": "action_scene",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "rain",
+    "text": "雨",
+    "category": "nature",
+    "meaning": "rain",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "hand",
+    "text": "手",
+    "category": "body-related concept",
+    "meaning": "hand",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "happy",
+    "text": "快樂",
+    "category": "abstract/simple concept",
+    "meaning": "happiness",
+    "visualizability": "medium",
+    "visual_strategy": "abstract_concept",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "far",
+    "text": "遠",
+    "category": "spatial/relationship concept",
+    "meaning": "far away",
+    "visualizability": "medium",
+    "visual_strategy": "relationship_scene",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "mooncake",
+    "text": "月餅",
+    "category": "culturally Chinese-specific concrete concept",
+    "meaning": "mooncake",
+    "visualizability": "high",
+    "visual_strategy": "direct_object",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  },
+  {
+    "id": "possessive-particle",
+    "text": "的",
+    "category": "grammatical/function word",
+    "meaning": "shows belonging or connection",
+    "visualizability": "low",
+    "visual_strategy": "grammar_function",
+    "age_range": "2-11",
+    "traditional_chinese": true
+  }
+]

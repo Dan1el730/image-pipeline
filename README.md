@@ -6,7 +6,18 @@ audience is children approximately ages 2-11.
 
 ## Current Status
 
-Step 3 is complete. Step 4 has not started.
+- Step 1: API verification - complete.
+- Step 2: two-model runner - implementation complete; the Qwen versus Nano
+        Banana experiment is pending.
+- Step 3: semantic-v1 prompt and policy - complete.
+- Step 4: image retrieval and licensing research - complete.
+- Step 5: controlled vocabulary dataset - created and validation passed.
+- Step 6 onward: not yet implemented.
+
+`IMAGE_RETRIEVAL_AND_LICENSING.md` documents the proposed retrieval fallback.
+`dataset/vocabulary.json` contains the current 10-item controlled pilot, and
+`dataset/README.md` explains the pilot dataset. No Step 5 image generation or
+retrieval has been performed.
 
 The models under evaluation are:
 
@@ -67,10 +78,11 @@ intentionally ignored by Git.
 ## Project Stages
 
 - Step 1: API verification - complete
-- Step 2: two-model runner - complete
+- Step 2: two-model runner - implementation complete; Qwen versus Nano Banana
+        experiment pending
 - Step 3: semantic-v1 prompt and policy - complete
-- Step 4: vocabulary dataset - not started
-- Step 5: hooks, validation, and budget controls - planned
-- Step 6: pilot benchmark - planned
-- Step 7: decomp.py integration - planned
-- Step 8: larger benchmark - planned
+- Step 4: image retrieval and licensing research - complete
+- Step 5: controlled vocabulary dataset - created and validation passed
+- Step 6: pilot benchmark - not started
+- Step 7: decomp.py integration - not started
+- Step 8: larger benchmark - not started
