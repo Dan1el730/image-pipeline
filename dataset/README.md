@@ -35,5 +35,6 @@ a single image:
   a literal standalone image.
 
 This dataset contains no generated prompts, example sentences, image URLs,
-provider-specific fields, generated images, or retrieved images. No image
-generation or retrieval has been performed.
+provider-specific fields, generated images, or retrieved images. This statement
+describes the dataset contents only; the repository's separate Step 6B benchmark
+may generate images from these controlled records.

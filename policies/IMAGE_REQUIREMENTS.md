@@ -59,6 +59,7 @@ characters.
 
 ## Baseline Fairness
 
-Use the same final semantic prompt for Qwen Image 2 and Nano Banana 2 during
-baseline comparisons. Prompt version `semantic-v1` identifies this policy
-without introducing model-specific wording.
+Use the shared semantic-v2 prompt meaning and restrictions for Qwen Image 2
+and Nano Banana 2 during baseline comparisons. Provider-specific API settings
+may use different payload fields, but must not change the intended visual
+meaning or restrictions.
